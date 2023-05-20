@@ -7,3 +7,5 @@ I created this mod as a possible predecessor to a bigger mod with the aim to com
 # License
 The StatTracker mod is licensed under **[GNU Lesser General Public License version 3](https://www.gnu.org/licenses/lgpl-3.0.txt)** (shortened to **LGPLv3**).
 You are free to do anything you want, as long as it falls under the terms of this license.
+
+Even though this mod is open-source, due to the nature of Town of Salem modding, I will not be providing any support on how to do so (except explain how my mods work). You're on your own.
